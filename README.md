@@ -10,5 +10,5 @@ Open the github pages site and you will see the current day's work schedule. If 
 ![image](https://github.com/alexoserna/work-day-planner/assets/118146045/ae6999c4-6c53-4b81-9c5f-be21eaf728ab)
 
 ## Links
-Click the link below to visit our site!
+Click the link below to visit our site!\
 [WorkDayScheduler.com](https://alexoserna.github.io/code-quiz/](https://alexoserna.github.io/work-day-planner/)
