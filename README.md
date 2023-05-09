@@ -11,4 +11,4 @@ Open the github pages site and you will see the current day's work schedule. If 
 
 ## Links
 Click the link below to visit our site!\
-[WorkDayScheduler.com](https://alexoserna.github.io/code-quiz/](https://alexoserna.github.io/work-day-planner/)
+[WorkDayScheduler.com](https://alexoserna.github.io/work-day-planner/)
